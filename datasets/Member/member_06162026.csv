@@ -1,0 +1,51 @@
+member_id,first_name,last_name,date_of_birth,gender,phone,email,street,city,state,postal_code,country,join_date,status,coverage_id
+M0551,Scott,Waller,2002-09-13,Male,(772)961-0356,brubio@example.com,9478 Miller Shoals,South Stephenton,Minnesota,42973,USA,2021-06-02,Active,C0539
+M0552,Monica,Morrison,1969-08-07,Female,(479)564-5570,gregory26@example.org,590 Karen Path Suite 831,West Matthewberg,Mississippi,8337,USA,2025-04-27,Active,C0508
+M0553,Jonathan,Dawson,1982-02-16,Male,237-944-9856x4397,hollandchristopher@example.net,3412 Mayer Overpass Apt. 478,Stephenchester,Florida,66860,USA,2025-09-16,Inactive,C0750
+M0554,Brandon,Farmer,1956-05-16,Male,7998329845,nthomas@example.org,843 Hall Avenue,South Matthewview,Wyoming,39061,USA,2024-10-26,Inactive,C0571
+M0555,Brian,Taylor,1970-09-17,Male,769-826-8053x2767,ugibson@example.net,132 Jessica Harbor Apt. 656,Coopermouth,Montana,71225,USA,2023-08-14,Inactive,C0724
+M0556,Leah,Howell,1957-01-07,Female,355.840.3181x69895,anthonyjohnson@example.net,65057 Richards Estate Suite 821,North Mary,Rhode Island,89389,USA,2023-10-22,Active,C0819
+M0557,Mary,Garcia,1959-02-22,Female,(722)898-8782x978,denisemorrison@example.com,21863 Sarah Pass Suite 057,Port Benjaminborough,Wyoming,25194,USA,2021-12-04,Active,C0492
+M0558,Cynthia,Huffman,1988-01-17,Female,+1-964-296-9101,ghanson@example.com,081 David Meadow Suite 989,West Rebeccaburgh,Michigan,64680,USA,2023-05-23,Active,C0175
+M0559,Emily,King,1991-12-21,Female,780-893-0714x42970,vhanson@example.net,0814 Cassandra Branch,Freemanborough,Connecticut,26158,USA,2023-04-02,Inactive,C0297
+M0560,Julie,House,1959-10-11,Female,(771)239-8943,andrewweaver@example.com,72472 Stephen Station,Caseyview,Oregon,74868,USA,2024-02-16,Active,C0981
+M0561,Deanna,Hernandez,1957-08-20,Female,001-778-746-6456x456,umcgee@example.com,096 Roberson Field Suite 700,Huffmanport,Minnesota,24236,USA,2023-03-02,Inactive,C0460
+M0562,Karen,Dougherty,2002-10-12,Female,590-937-0219x669,ualvarado@example.org,44900 Micheal Canyon,Christophermouth,Vermont,94696,USA,2024-12-31,Active,C0191
+M0563,Jennifer,Leon,1989-04-22,Female,001-475-271-9824x5703,mooremegan@example.com,236 Robert Pine Suite 791,Lopezside,North Carolina,46525,USA,2022-10-28,Inactive,C0847
+M0564,Jack,Stone,2004-06-19,Male,+1-861-843-6665,timothymontgomery@example.net,581 Anderson Burgs,Joneston,Alaska,70906,USA,2022-09-28,Inactive,C0037
+M0565,Michael,Jackson,1994-09-25,Male,(758)210-3881x0566,watsonrussell@example.net,8057 Justin Expressway,Lyonsville,Indiana,42749,USA,2026-02-05,Inactive,C0551
+M0566,Yvonne,Weber,1993-11-07,Female,295-958-5792x41984,ortegajoshua@example.org,9206 Lynch Harbors Apt. 098,Lake Alexanderstad,Maine,95276,USA,2026-04-08,Active,C0374
+M0567,Julie,Nelson,1990-12-16,Female,+1-829-559-3310x01613,eperry@example.net,4145 Walker Parks Apt. 659,West Susanhaven,Nebraska,83814,USA,2025-04-13,Inactive,C0182
+M0568,David,Long,1952-09-28,Male,001-219-889-8188,christopherwarren@example.com,4694 Johnson Expressway Apt. 650,South Dianehaven,Rhode Island,57150,USA,2022-12-25,Inactive,C0650
+M0569,Kathleen,Pittman,1985-10-26,Female,001-475-827-9956x21383,eking@example.org,9597 Simmons Island Suite 602,Timothymouth,Louisiana,65708,USA,2022-05-21,Inactive,C0148
+M0570,Sharon,Bowman,1989-04-20,Female,(646)684-9410x539,williamwilson@example.com,9233 Faulkner Gardens,Davisfurt,Minnesota,43394,USA,2025-09-10,Inactive,C0964
+M0571,Craig,Ball,1966-12-09,Male,(540)599-8307,qsloan@example.com,7609 Courtney Pike,Valdezville,Minnesota,67708,USA,2021-10-06,Inactive,C0848
+M0572,Jamie,Johnson,1981-10-22,Female,001-858-491-9576x76955,oharrington@example.net,181 Walters Village Apt. 115,Lake Linda,Indiana,88283,USA,2021-06-10,Inactive,C0785
+M0573,Max,Phillips,1954-07-02,Male,001-488-427-2020,alexander65@example.com,02155 Nichols Centers,Clarkmouth,North Dakota,60736,USA,2026-04-13,Inactive,C0291
+M0574,Sara,Butler,1985-12-27,Female,001-381-677-2679x66473,joansmith@example.net,8941 Isaiah Crossroad,New Troy,Rhode Island,46559,USA,2021-08-16,Active,C0331
+M0575,Howard,Navarro,1955-05-25,Male,(746)683-4684x871,wrichards@example.com,87089 Summer Curve Apt. 029,Smithhaven,Oregon,73150,USA,2022-11-14,Active,C0109
+M0576,Jennifer,Richardson,1997-12-28,Female,606.230.0883,luisstanley@example.net,67098 Wall Neck Suite 616,Berrytown,Indiana,56661,USA,2022-06-10,Inactive,C0245
+M0577,Sarah,Little,1968-04-06,Female,902-538-7417x95677,srogers@example.org,97553 Spencer Park Suite 132,New Jordanmouth,Nevada,26110,USA,2025-12-13,Active,C0888
+M0578,Ashley,Coleman,1990-11-23,Female,8736159944,richard42@example.com,040 Deleon Highway,Lake Jessica,Kentucky,71682,USA,2024-10-07,Inactive,C0087
+M0579,Amy,Simon,1965-02-24,Female,402.502.6056x0696,danieljuarez@example.net,5512 Andrea Radial Suite 966,East Cynthia,Washington,99410,USA,2025-08-24,Active,C0978
+M0580,Becky,Gibson,1984-11-17,Female,(614)331-3216,sanchezamber@example.net,141 Joseph Extensions,Lake Katie,Idaho,56970,USA,2024-07-05,Active,C0967
+M0581,Kevin,Green,1981-12-07,Male,+1-546-909-5624x4300,wduke@example.net,30428 Richard Flats,North Adrienne,Arkansas,47460,USA,2022-04-11,Active,C0374
+M0582,Anne,Martinez,1992-03-27,Female,(840)597-4151x5149,hicksjessica@example.net,0696 Walker Walks,Ballborough,Missouri,21615,USA,2022-07-28,Inactive,C0547
+M0583,Travis,Porter,2003-10-04,Male,+1-413-987-3283x55290,icastro@example.org,99609 Ford Isle,Davisside,Wyoming,53270,USA,2021-05-12,Active,C0435
+M0584,Jay,Pittman,1961-08-02,Male,285.622.9256,garciashane@example.com,09579 Rachel Station Suite 285,Matthewton,Ohio,80943,USA,2024-08-24,Inactive,C0046
+M0585,Michael,Weaver,2005-02-26,Male,+1-580-263-9670,anna14@example.com,7053 Ronald Walks,New Troyfort,Georgia,45311,USA,2024-06-08,Inactive,C0202
+M0586,Brad,Miller,1982-12-22,Male,495-620-1653,kathleen17@example.com,009 Ferguson Plain Suite 029,North Stephanie,Massachusetts,22084,USA,2024-04-18,Inactive,C0592
+M0587,David,Smith,1954-11-26,Male,440-590-6875x83163,reginahaley@example.org,8344 Hernandez Light Suite 174,Armstrongfurt,Missouri,48983,USA,2023-09-11,Inactive,C0199
+M0588,Sherry,Jones,1969-01-21,Female,+1-724-383-3075,joseph76@example.net,28755 Michael Cliffs Apt. 948,West Shellyside,Pennsylvania,84251,USA,2025-11-11,Inactive,C0737
+M0589,Gary,Day,1988-04-26,Male,(211)282-1033x964,susan68@example.com,0565 Amy Parkways,Port Juliebury,South Carolina,7371,USA,2022-11-23,Active,C0623
+M0590,Megan,Fisher,1978-06-11,Female,544-600-2674x234,ybeck@example.org,11460 Davidson Loop,Michaelburgh,Wyoming,18533,USA,2024-11-19,Active,C0424
+M0591,Shawn,Robinson,1970-09-02,Male,001-505-230-9652,pricejustin@example.org,78894 Ashley Ridges,Port Ericbury,Maine,49029,USA,2022-01-11,Inactive,C0672
+M0592,Eric,Smith,1985-08-18,Male,874-237-4896,zachary46@example.org,53358 Stephanie Lodge Apt. 571,South Taylorchester,Pennsylvania,23391,USA,2024-02-02,Active,C0951
+M0593,Rachel,Payne,1959-11-25,Female,(928)224-9603x51730,ronaldrogers@example.com,225 Ian Stravenue Suite 832,North Bryceton,South Carolina,52265,USA,2021-05-14,Active,C0772
+M0594,Ashley,Miller,1962-05-05,Female,461.996.3913x0431,desiree12@example.org,1812 Daniel Spur,North Shannon,Washington,94338,USA,2025-08-18,Inactive,C0407
+M0595,Cassandra,Wilson,1999-06-17,Female,001-239-429-6144x4720,eric98@example.org,708 Wilson Oval Suite 765,Youngside,Delaware,60108,USA,2025-11-24,Active,C0596
+M0596,Emily,Bryant,1961-04-08,Female,(894)218-3820,sean43@example.com,75428 Bush Meadows Apt. 982,Medinamouth,Illinois,55310,USA,2023-08-13,Active,C0931
+M0597,Devon,Davis,1998-09-10,Male,525.971.5532,lisawhite@example.com,18465 Green Cliff Apt. 324,Dixonfort,Alaska,90352,USA,2022-10-16,Inactive,C0703
+M0598,Emily,Miller,1978-12-23,Female,+1-616-480-1820x42026,michellegomez@example.org,04674 Bridges Flats Apt. 305,Mckenziebury,Louisiana,22603,USA,2026-04-30,Inactive,C0080
+M0599,Christopher,Parker,1962-10-02,Male,+1-209-986-8062x7903,millerjoshua@example.org,098 Timothy Stream Suite 784,North Hailey,Michigan,7748,USA,2025-08-07,Inactive,C0140
+M0600,Joel,Contreras,1979-12-30,Male,449.595.6055x656,bethany65@example.net,63181 Griffin Turnpike,West Andrewfurt,Wisconsin,85641,USA,2023-07-29,Inactive,C0814

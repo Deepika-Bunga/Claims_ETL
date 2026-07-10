@@ -1,0 +1,51 @@
+provider_id,provider_name,Gender,Birth_date,address,city,state,zip_code,country,telephone_number,speciality_id,emergency_services,overall_rating,rating_footnote
+PR0401,WellStar Kennestone Hospital,null,null,352 Broadway,Dallas,TX,75201,Dallas,+1 (508) 465-7645,ENDO,true,4,High patient satisfaction
+PR0402,Richland Mosley,Male,1961-03-08,551 Main St,San Diego,CA,92101,San Diego,+1 (513) 929-3999,OBGYN,false,2,Limited data
+PR0403,Mission Hospital,null,null,264 Broadway,Houston,TX,77001,Harris,+1 (437) 597-5390,PSY,false,1,Limited data
+PR0404,University of Iowa Hospitals,Female,null,404 Broadway,San Francisco,CA,94101,San Francisco,+1 (208) 253-2352,"GASTRO,NEURO",false,1,Recent quality improvements
+PR0405,Giti Bahar,null,1984-10-22,471 Main St,San Francisco,CA,94101,San Francisco,+1 (841) 912-3702,"SURG,PSY",false,2,Recent quality improvements
+PR0406,Shahla Zakerzadeh,Female,1981-05-16,868 Maple Ave,San Diego,CA,92101,San Diego,+1 (786) 475-6770,RAD,true,5,Recent quality improvements
+PR0407,Providence Portland Medical Center,null,null,493 Broadway,Dallas,TX,75201,Dallas,+1 (228) 194-4030,"CARDIO,SURG",true,4,Limited data
+PR0408,Seattle Children's Hospital,Female,null,829 Maple Ave,Jacksonville,FL,32099,Duval,+1 (236) 150-9045,"URO,PULM",true,2,Limited data
+PR0409,Baptist Health South Florida,Female,null,488 Main St,New York,NY,10001,New York,+1 (531) 926-3373,"RHEUM,GASTRO",false,3,null
+PR0410,Children's tiol Hospital,null,null,936 Main St,Washington,DC,20001,District of Columbia,+1 (244) 131-5940,HEM,false,2,High patient satisfaction
+PR0411,Texas Children's Hospital,Female,null,572 Maple Ave,Charlotte,NC,28201,Mecklenburg,+1 (326) 508-2976,"GEN,PED",true,1,High patient satisfaction
+PR0412,Erin P. Williams,Male,1972-01-12,723 Maple Ave,San Diego,CA,92101,San Diego,+1 (735) 286-1922,"DERMA,HEM",false,5,Recent quality improvements
+PR0413,CoxHealth,null,null,178 Oak St,Washington,DC,20001,District of Columbia,+1 (446) 964-7322,OBGYN,true,1,High patient satisfaction
+PR0414,Barnes-Jewish Hospital,null,null,746 Maple Ave,San Francisco,CA,94101,San Francisco,+1 (816) 290-3266,"ENDO,ORTHO",false,3,Limited data
+PR0415,UC San Diego Health,null,null,881 Main St,New York,NY,10001,New York,+1 (374) 316-5630,SURG,false,4,High patient satisfaction
+PR0416,Houston Methodist,null,null,659 Main St,Denver,CO,80201,Denver,+1 (974) 271-9260,"PSY,PULM",false,5,Recent quality improvements
+PR0417,Ahmed H. El Zawi,null,1964-08-11,737 Maple Ave,Washington,DC,20001,District of Columbia,+1 (595) 264-9839,DERMA,true,2,Recent quality improvements
+PR0418,Hackensack University Medical Center,null,null,906 Maple Ave,San Francisco,CA,94101,San Francisco,+1 (531) 758-6043,"PED,RHEUM",true,4,null
+PR0419,Seattle Children's Hospital,null,null,888 Broadway,Seattle,WA,98101,King,+1 (700) 736-3527,"OBGYN,NEURO",false,2,Limited data
+PR0420,Cone Health,null,null,352 Maple Ave,Charlotte,NC,28201,Mecklenburg,+1 (984) 549-9747,ONCO,false,5,null
+PR0421,UnityPoint Health,null,null,565 Main St,Columbus,OH,43085,Franklin,+1 (992) 323-4662,"URO,RAD",false,1,null
+PR0422,University of Colorado Hospital,null,null,178 Oak St,Chicago,IL,60601,Cook,+1 (381) 583-3106,RHEUM,false,1,Limited data
+PR0423,Johns Hopkins Hospital,null,null,336 Maple Ave,Washington,DC,20001,District of Columbia,+1 (820) 945-5981,HEM,true,2,null
+PR0424,Mayo Clinic,null,null,294 Maple Ave,Indiapolis,IN,46201,Marion,+1 (539) 559-9270,"OBGYN,ENT",false,1,Recent quality improvements
+PR0425,WellStar Kennestone Hospital,null,null,614 Maple Ave,Austin,TX,73301,Travis,+1 (425) 678-8586,"ENT,NEURO",true,3,Recent quality improvements
+PR0426,Tracy N. Martin,null,1966-07-29,508 Main St,Fort Worth,TX,76101,Tarrant,+1 (381) 549-7684,OBGYN,true,5,null
+PR0427,Cone Health,Male,null,787 Main St,Jacksonville,FL,32099,Duval,+1 (348) 791-4430,ALL,false,3,null
+PR0428,Rush University Medical Center,null,null,346 Main St,Charlotte,NC,28201,Mecklenburg,+1 (333) 337-2553,"GEN,RAD",true,4,Recent quality improvements
+PR0429,Anh N. To,null,1963-04-16,625 Maple Ave,Columbus,OH,43085,Franklin,+1 (796) 908-1815,"GEN,OBGYN",true,1,Limited data
+PR0430,Providence St. Joseph,null,null,405 Oak St,Fort Worth,TX,76101,Tarrant,+1 (778) 461-9927,"GASTRO,PSY",false,2,null
+PR0431,ChristiaCare,Female,null,327 Oak St,Dallas,TX,75201,Dallas,+1 (476) 721-7226,"SURG,PED",false,5,High patient satisfaction
+PR0432,Loyola University Medical Center,null,null,927 Main St,Washington,DC,20001,District of Columbia,+1 (584) 206-5181,PED,true,2,Limited data
+PR0433,Baylor St. Luke's Medical Center,null,null,582 Main St,New York,NY,10001,New York,+1 (789) 308-2920,PED,true,4,Limited data
+PR0434,Greenwich Hospital,null,null,764 Main St,San Diego,CA,92101,San Diego,+1 (633) 725-9183,"PED,ALL",true,4,Recent quality improvements
+PR0435,Sanford USD Medical Center,null,null,187 Maple Ave,Chicago,IL,60601,Cook,+1 (513) 663-6128,NEURO,true,5,null
+PR0436,Kenneth S. Gluski,null,1985-09-08,900 Main St,San Jose,CA,95101,Santa Clara,+1 (618) 576-9889,URO,false,2,null
+PR0437,Intermountain Medical Center,Female,null,568 Maple Ave,New York,NY,10001,New York,+1 (771) 107-7954,NEPH,true,2,null
+PR0438,Banner – University Medical Center Phoenix,Male,null,986 Main St,San Francisco,CA,94101,San Francisco,+1 (388) 247-3341,HEM,true,3,Recent quality improvements
+PR0439,M Health Fairview,null,null,782 Maple Ave,Washington,DC,20001,District of Columbia,+1 (913) 901-3903,"HEM,PULM",false,1,Limited data
+PR0440,Scripps Mercy Hospital,null,null,264 Main St,New York,NY,10001,New York,+1 (445) 528-4942,"URO,PULM",false,3,Recent quality improvements
+PR0441,Banner – University Medical Center Phoenix,null,null,740 Maple Ave,Washington,DC,20001,District of Columbia,+1 (393) 787-7448,PED,true,5,Limited data
+PR0442,Children's Hospital Colorado,Female,null,527 Oak St,Phoenix,AZ,85001,Maricopa,+1 (806) 995-9392,URO,true,3,Limited data
+PR0443,Lisa S. Manuele,null,1986-06-13,466 Oak St,Denver,CO,80201,Denver,+1 (789) 391-4718,DERMA,false,4,null
+PR0444,Aurora Health Care,null,null,828 Broadway,Austin,TX,73301,Travis,+1 (427) 266-4427,"ONCO,ORTHO",true,3,High patient satisfaction
+PR0445,Charisse M. Colbert,null,1986-10-01,373 Oak St,San Diego,CA,92101,San Diego,+1 (712) 971-1830,"HEM,OBGYN",false,5,Recent quality improvements
+PR0446,Inova Fairfax Hospital,Female,null,937 Broadway,Los Angeles,CA,90001,Los Angeles,+1 (657) 761-2487,URO,true,1,High patient satisfaction
+PR0447,Andrew Cummings,null,1986-12-16,791 Maple Ave,Philadelphia,PA,19101,Philadelphia,+1 (895) 174-1766,"NEPH,ENDO",true,2,High patient satisfaction
+PR0448,Luis Ortega Regueira,null,1976-02-09,634 Oak St,Charlotte,NC,28201,Mecklenburg,+1 (222) 939-9738,"ENT,DERMA",true,2,Recent quality improvements
+PR0449,UCHealth Memorial Hospital,null,null,229 Maple Ave,Fort Worth,TX,76101,Tarrant,+1 (300) 921-1027,RHEUM,false,2,null
+PR0450,Greenwich Hospital,Female,null,141 Oak St,Indiapolis,IN,46201,Marion,+1 (236) 735-5123,SURG,true,5,Limited data

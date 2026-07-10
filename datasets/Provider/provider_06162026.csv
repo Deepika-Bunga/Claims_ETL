@@ -1,0 +1,51 @@
+provider_id,provider_name,Gender,Birth_date,address,city,state,zip_code,country,telephone_number,speciality_id,emergency_services,overall_rating,rating_footnote
+PR0451,Allegheny General Hospital,null,null,803 Main St,San Jose,CA,95101,Santa Clara,+1 (835) 174-3958,"OBGYN,DERMA",true,5,High patient satisfaction
+PR0452,Spectrum Health,null,null,868 Broadway,San Jose,CA,95101,Santa Clara,+1 (694) 961-3928,NEPH,true,3,null
+PR0453,Darshaen P. Patel,null,1982-01-01,625 Main St,New York,NY,10001,New York,+1 (316) 718-7505,"RAD,NEURO",false,2,Recent quality improvements
+PR0454,Wendy Cheng,null,1961-10-10,243 Main St,Fort Worth,TX,76101,Tarrant,+1 (405) 548-2105,"DERMA,GEN",false,2,High patient satisfaction
+PR0455,MedStar Georgetown University Hospital,Male,null,935 Broadway,Denver,CO,80201,Denver,+1 (393) 619-4556,PSY,false,5,null
+PR0456,University of Virginia Medical Center,null,null,237 Main St,Chicago,IL,60601,Cook,+1 (994) 123-8843,"URO,NEURO",true,5,Limited data
+PR0457,India University Health,null,null,125 Main St,San Antonio,TX,78201,Bexar,+1 (681) 156-8902,RAD,false,2,null
+PR0458,Henry Ford Hospital,null,null,298 Main St,Austin,TX,73301,Travis,+1 (999) 966-9142,ALL,true,5,Recent quality improvements
+PR0459,Cedars-Sii Medical Center,null,null,960 Broadway,San Diego,CA,92101,San Diego,+1 (949) 438-3466,"URO,SURG",true,2,Limited data
+PR0460,Texas Children's Hospital,null,null,891 Broadway,Chicago,IL,60601,Cook,+1 (993) 680-3577,"ONCO,ORTHO",true,2,Limited data
+PR0461,UCHealth Poudre Valley,Female,null,186 Broadway,San Antonio,TX,78201,Bexar,+1 (353) 146-1773,CARDIO,false,4,Limited data
+PR0462,Johns Hopkins Hospital,null,null,194 Maple Ave,Fort Worth,TX,76101,Tarrant,+1 (895) 293-7119,OBGYN,false,3,Recent quality improvements
+PR0463,Spectrum Health,Female,null,446 Broadway,Washington,DC,20001,District of Columbia,+1 (494) 754-6342,"GEN,RAD",true,4,null
+PR0464,Tay N. Hoang,null,1964-01-29,946 Main St,Columbus,OH,43085,Franklin,+1 (937) 474-1098,"URO,HEM",false,4,null
+PR0465,UCLA Medical Center,null,null,754 Maple Ave,Denver,CO,80201,Denver,+1 (611) 767-1852,ONCO,false,3,Recent quality improvements
+PR0466,Cone Health,null,null,820 Oak St,Chicago,IL,60601,Cook,+1 (435) 948-8234,ENDO,false,4,Recent quality improvements
+PR0467,Loyola University Medical Center,null,null,527 Broadway,San Antonio,TX,78201,Bexar,+1 (856) 635-1750,SURG,true,4,null
+PR0468,Baylor St. Luke's Medical Center,null,null,303 Main St,San Diego,CA,92101,San Diego,+1 (433) 937-7389,ENDO,false,1,Recent quality improvements
+PR0469,Beaumont Hospital,Male,null,969 Broadway,Austin,TX,73301,Travis,+1 (644) 992-4819,DERMA,true,2,High patient satisfaction
+PR0470,Anne-Laure C. Orlaska,null,1975-01-23,973 Maple Ave,San Antonio,TX,78201,Bexar,+1 (856) 505-6464,PULM,true,4,Limited data
+PR0471,M Health Fairview,Female,null,299 Maple Ave,Austin,TX,73301,Travis,+1 (371) 224-1484,"ALL,PED",true,2,Recent quality improvements
+PR0472,NYC Health + Hospitals,Female,null,924 Maple Ave,Charlotte,NC,28201,Mecklenburg,+1 (228) 463-8063,"SURG,RHEUM",false,4,null
+PR0473,UC Irvine Medical Center,Female,null,377 Oak St,Charlotte,NC,28201,Mecklenburg,+1 (970) 617-2652,HEM,true,5,Recent quality improvements
+PR0474,UCHealth Poudre Valley,Male,null,357 Maple Ave,Austin,TX,73301,Travis,+1 (672) 349-9017,ENT,false,1,null
+PR0475,Baylor St. Luke's Medical Center,null,null,123 Main St,Columbus,OH,43085,Franklin,+1 (257) 400-4918,ONCO,false,2,Limited data
+PR0476,Vanderbilt University Medical Center,null,null,406 Oak St,Houston,TX,77001,Harris,+1 (725) 137-8788,ALL,false,1,null
+PR0477,Cone Health,null,null,750 Maple Ave,San Jose,CA,95101,Santa Clara,+1 (898) 679-9961,RHEUM,true,5,null
+PR0478,Mission Hospital,null,null,495 Main St,Dallas,TX,75201,Dallas,+1 (862) 613-5403,"ONCO,GASTRO",false,1,null
+PR0479,Ashley D. DeMarco,Male,1961-03-14,636 Maple Ave,Philadelphia,PA,19101,Philadelphia,+1 (928) 371-6301,ORTHO,true,2,Recent quality improvements
+PR0480,Baylor St. Luke's Medical Center,Female,null,780 Oak St,New York,NY,10001,New York,+1 (583) 957-8704,SURG,false,2,Limited data
+PR0481,Richland Mosley,null,1968-08-26,806 Main St,Los Angeles,CA,90001,Los Angeles,+1 (613) 740-9552,CARDIO,false,5,Limited data
+PR0482,Emory University Hospital,null,null,805 Oak St,Seattle,WA,98101,King,+1 (519) 290-4255,"NEURO,ORTHO",false,4,High patient satisfaction
+PR0483,Eastern Maine Medical Center,Female,null,902 Broadway,Jacksonville,FL,32099,Duval,+1 (305) 216-1041,"GASTRO,NEPH",false,5,null
+PR0484,Altru Health System,Male,null,803 Main St,Washington,DC,20001,District of Columbia,+1 (217) 412-6826,GEN,true,4,Recent quality improvements
+PR0485,Texas Children's Hospital,null,null,760 Maple Ave,San Antonio,TX,78201,Bexar,+1 (562) 869-3454,OBGYN,true,2,Recent quality improvements
+PR0486,Scripps Mercy Hospital,Female,null,448 Main St,Charlotte,NC,28201,Mecklenburg,+1 (550) 191-1991,"HEM,SURG",false,1,High patient satisfaction
+PR0487,Shahrzad M. Embry,Female,1970-05-27,456 Main St,San Francisco,CA,94101,San Francisco,+1 (709) 420-8526,OBGYN,true,4,Recent quality improvements
+PR0488,Adiha Khan,Male,1970-12-06,571 Main St,Indiapolis,IN,46201,Marion,+1 (770) 748-8567,ORTHO,false,5,null
+PR0489,St. Francis Hospital and Medical Center,null,null,366 Maple Ave,Denver,CO,80201,Denver,+1 (879) 434-8978,"GASTRO,SURG",true,5,null
+PR0490,Harold C. McGregor,Female,1989-05-12,914 Maple Ave,Columbus,OH,43085,Franklin,+1 (502) 558-3635,CARDIO,true,5,High patient satisfaction
+PR0491,Gabriel E. Shahwan,null,1984-07-16,587 Maple Ave,San Jose,CA,95101,Santa Clara,+1 (555) 217-7402,"GASTRO,DERMA",false,4,null
+PR0492,Victor M. Ticas,null,1983-02-08,150 Broadway,San Francisco,CA,94101,San Francisco,+1 (498) 336-7515,GEN,true,4,Recent quality improvements
+PR0493,Jefferson Health,null,null,744 Oak St,San Francisco,CA,94101,San Francisco,+1 (983) 549-4574,NEURO,false,5,High patient satisfaction
+PR0494,Cleveland Clinic,null,null,138 Broadway,Philadelphia,PA,19101,Philadelphia,+1 (550) 879-4440,"PULM,ENT",true,3,null
+PR0495,Geisinger Medical Center,null,null,611 Maple Ave,Los Angeles,CA,90001,Los Angeles,+1 (413) 744-4213,"HEM,RAD",true,1,Limited data
+PR0496,Children's Hospital of Philadelphia,null,null,626 Oak St,Houston,TX,77001,Harris,+1 (881) 533-1235,"PULM,NEURO",false,4,High patient satisfaction
+PR0497,Main Line Health,null,null,238 Main St,Jacksonville,FL,32099,Duval,+1 (475) 470-7789,RHEUM,false,1,High patient satisfaction
+PR0498,Baptist Health South Florida,null,null,307 Oak St,Charlotte,NC,28201,Mecklenburg,+1 (870) 898-4403,ONCO,true,3,High patient satisfaction
+PR0499,Loyola University Medical Center,null,null,271 Broadway,Los Angeles,CA,90001,Los Angeles,+1 (828) 197-4217,"HEM,DERMA",false,1,Recent quality improvements
+PR0500,University of Colorado Hospital,null,null,592 Maple Ave,Washington,DC,20001,District of Columbia,+1 (463) 103-4866,"ONCO,PULM",false,5,High patient satisfaction

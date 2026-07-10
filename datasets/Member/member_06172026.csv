@@ -1,0 +1,51 @@
+member_id,first_name,last_name,date_of_birth,gender,phone,email,street,city,state,postal_code,country,join_date,status,coverage_id
+M0601,George,Clark,2000-08-03,Male,2725866022,ccrawford@example.net,057 Green Road,Huntertown,Connecticut,16642,USA,2022-03-15,Inactive,C0233
+M0602,John,Phillips,1977-03-28,Male,001-254-602-4356x3411,myoung@example.net,845 Davis Loop Suite 667,North Melissa,Nevada,90756,USA,2022-10-04,Inactive,C0782
+M0603,Matthew,Cook,1981-07-30,Male,226-389-4315x29522,clane@example.net,428 Justin Hollow Apt. 345,North Lisa,Pennsylvania,16698,USA,2024-03-15,Active,C0678
+M0604,Richard,Lowe,1955-06-26,Male,+1-952-553-6119x44372,mary60@example.com,95042 Melissa Mountains Suite 828,North Amanda,Alabama,4841,USA,2024-02-05,Active,C0823
+M0605,Sherri,Miller,1976-01-17,Female,528.366.0644x53012,burgessrichard@example.com,381 Morgan Islands,West Jennifer,Maryland,30199,USA,2026-01-18,Active,C0251
+M0606,Christina,Wallace,2000-05-05,Female,(402)866-8614,sabrinasmith@example.com,6227 Michael Burgs Apt. 093,Garciachester,Mississippi,3904,USA,2024-06-24,Active,C0341
+M0607,Connie,Bell,1978-06-17,Female,645.745.1892,alexiswilliams@example.net,096 Mary Springs Suite 930,Williamshire,Kansas,60284,USA,2022-04-23,Inactive,C0971
+M0608,Dawn,Thompson,1982-01-08,Female,(692)573-9999x3129,simmonspatty@example.net,388 Grace Forge,Georgefurt,Mississippi,1833,USA,2023-06-16,Inactive,C0332
+M0609,Jason,Serrano,1974-08-16,Male,+1-624-532-8322,debraballard@example.org,7811 Daniel Common Apt. 840,Anthonychester,Alabama,48950,USA,2024-08-17,Active,C0654
+M0610,Paul,Williams,1957-01-28,Male,669-575-4740x07525,reginald88@example.org,90261 Reyes Pines Apt. 276,West Beverlyville,New York,80444,USA,2021-07-23,Active,C0945
+M0611,Kristin,Norton,1982-09-06,Female,590.519.2497,jonesandrew@example.com,733 Alec Landing,East Jenniferfurt,New Jersey,48200,USA,2026-04-08,Active,C0927
+M0612,Jose,Stone,1977-05-25,Male,5564955355,hallgary@example.org,8673 Thompson Station Apt. 037,South Robin,Arkansas,74497,USA,2025-11-18,Active,C0739
+M0613,Jose,Elliott,1988-12-12,Male,001-790-299-5371x601,dianediaz@example.com,9657 Webb Brooks Apt. 560,North Johnside,Rhode Island,25047,USA,2024-09-09,Inactive,C0546
+M0614,Peter,Griffin,1989-09-24,Male,619.335.4687,brettcruz@example.org,49478 Flynn Dam Apt. 268,Deborahburgh,Arkansas,5157,USA,2023-08-13,Active,C0236
+M0615,Nicole,Carpenter,1979-04-09,Female,2735839721,ymyers@example.com,66524 Judith Rest Suite 510,South Micheleburgh,Florida,19025,USA,2023-03-25,Inactive,C0856
+M0616,Amy,Garrett,1972-06-09,Female,9183964526,oporter@example.org,948 Greer Shores,Lake Karen,New Mexico,54925,USA,2024-01-15,Active,C0353
+M0617,John,Rice,1969-12-21,Male,445-278-0021x618,nmorales@example.org,4446 Tonya Tunnel Suite 572,Kevinfurt,Iowa,48439,USA,2025-03-22,Inactive,C0290
+M0618,Jessica,Herman,1952-02-25,Female,001-284-844-3742x00487,kelly44@example.com,10016 Jacob Knoll Suite 727,West Deniseton,Georgia,86709,USA,2022-05-10,Active,C0188
+M0619,Joshua,Lee,2003-12-22,Male,960-973-2678x1708,annafox@example.com,098 Elizabeth Pine,Janicehaven,Texas,9235,USA,2024-01-22,Active,C0395
+M0620,Samantha,Erickson,1983-09-22,Female,+1-686-786-2177x111,bendercarol@example.org,545 Cain Estates,East Matthewbury,Utah,22561,USA,2022-02-03,Active,C0563
+M0621,Gerald,Matthews,2003-04-23,Male,(507)952-7035,nwright@example.com,552 Richards Loaf,Virginiafort,Nevada,66334,USA,2025-02-04,Inactive,C0289
+M0622,Michelle,Moody,1959-07-22,Female,657-515-4043,amy51@example.com,5231 Richardson Villages,Lake Lori,Massachusetts,58092,USA,2023-08-26,Active,C0656
+M0623,George,Martinez,1975-02-01,Male,228-258-5540,rjones@example.com,9658 Hardy Junction Suite 942,Jillianfort,New Mexico,55840,USA,2023-07-17,Active,C0762
+M0624,Gordon,Mejia,1969-10-03,Male,001-382-899-3893x35186,lfranklin@example.com,28572 Jordan Coves,Dayhaven,Massachusetts,55606,USA,2022-12-15,Inactive,C0789
+M0625,Theresa,Weaver,1988-12-03,Female,928.348.0063x141,ashley79@example.com,281 Jasmine Canyon,New Erin,Mississippi,10140,USA,2025-12-13,Inactive,C0331
+M0626,Megan,Klein,1971-12-27,Female,214.366.8349,shannon29@example.com,06434 Dennis Crescent,Davidburgh,South Carolina,51304,USA,2024-08-03,Active,C0558
+M0627,Rachel,Black,2004-08-15,Female,(927)415-2337x8165,dannylang@example.net,424 Nichols Village,East Amymouth,Nebraska,21322,USA,2022-04-03,Active,C0870
+M0628,Michelle,Robles,1990-07-24,Female,455-546-6860x4276,elizabeth36@example.com,74835 Smith Mountains,Leonardbury,Georgia,85861,USA,2022-05-10,Inactive,C0145
+M0629,Timothy,Mendez,1953-08-29,Male,523.571.6234x3539,christina45@example.net,8782 Linda Crossroad Apt. 562,New Nataliestad,Louisiana,69625,USA,2025-09-23,Inactive,C0704
+M0630,James,Wagner,1958-05-18,Male,4806158720,lthompson@example.net,446 Osborne Bypass Apt. 203,Palmerstad,Louisiana,1515,USA,2025-12-15,Inactive,C0034
+M0631,Zachary,Stone,1954-01-14,Male,001-727-424-6266x55968,jessica85@example.com,9539 Robinson Loop,South Jonathanberg,South Dakota,31877,USA,2022-04-22,Active,C0440
+M0632,Alexis,Johnson,2005-11-13,Female,773-261-7060,kelleymandy@example.net,248 James Mall,Amyville,New Hampshire,86379,USA,2024-04-05,Inactive,C0426
+M0633,Tammy,Jones,1985-08-13,Female,(809)311-6035x797,kennethbryant@example.net,22743 Carter Grove,Carsonside,Louisiana,47016,USA,2025-03-08,Active,C0150
+M0634,Gregory,Ramos,1985-11-28,Male,001-642-615-5141x4858,xoconnor@example.com,25048 Porter Glens Apt. 336,Lake Theresa,Connecticut,14811,USA,2026-02-17,Inactive,C0381
+M0635,Joanna,Bailey,1999-02-25,Female,+1-875-307-5974x34886,mollylee@example.net,84023 Kevin Harbor,North Kathrynport,California,3274,USA,2022-11-14,Inactive,C0845
+M0636,Jeffery,Hooper,1965-08-20,Male,647.637.6212x3130,brownedward@example.org,6146 Parks Knolls Suite 360,Lake Sara,South Carolina,1479,USA,2025-03-12,Inactive,C0588
+M0637,Justin,Martinez,1994-04-24,Male,936.356.1032x962,qhall@example.com,40335 Murphy Prairie Apt. 053,Davisfurt,Nevada,44855,USA,2021-07-14,Active,C0076
+M0638,Andrea,Torres,2005-12-09,Female,+1-675-430-6359x3075,joshuamendez@example.net,89149 Carter Shoal,Lake Jeffreystad,Rhode Island,54628,USA,2024-02-08,Inactive,C0635
+M0639,Kristy,Olson,1990-06-22,Female,844.939.6433,michellejones@example.com,69743 Craig Lodge Apt. 338,Donnaberg,New Jersey,53121,USA,2025-08-09,Active,C0122
+M0640,Crystal,Pratt,1984-07-14,Female,(662)561-1354x630,wilsonsylvia@example.net,54685 Brady Point Apt. 752,East Daniel,Oklahoma,92987,USA,2024-09-11,Active,C0536
+M0641,Lori,Brown,1972-08-27,Female,8773909692,rlucero@example.net,492 Blake Cove Apt. 759,New Eric,Washington,47467,USA,2024-05-25,Active,C0235
+M0642,Jacob,Jefferson,1967-12-05,Male,896-955-3789,melvin00@example.com,27542 Graham Springs Apt. 751,Lake Alexander,New Mexico,93106,USA,2024-07-08,Active,C0964
+M0643,Cynthia,Watkins,2006-08-17,Female,+1-417-797-0235x1558,johnruiz@example.net,2603 Nicole Wall,Kristopherport,Hawaii,3972,USA,2023-12-06,Active,C0901
+M0644,Nathan,Estrada,1949-08-21,Male,344-784-0297x23816,jacksondaniel@example.org,413 Thomas Walks,Donaldfurt,Massachusetts,15075,USA,2025-03-06,Active,C0268
+M0645,Cynthia,Hunter,1961-12-12,Female,(257)695-1279x959,danielshelton@example.org,81491 Wendy Loop,Ruthfort,Arizona,60031,USA,2022-06-16,Active,C0802
+M0646,Ryan,Perez,2000-09-20,Male,(253)709-9868,maxwellmichael@example.com,8548 Henderson Causeway Apt. 859,New Robertstad,Vermont,14450,USA,2023-10-24,Active,C0667
+M0647,Anthony,Martin,2006-09-12,Male,001-904-350-9336x058,nicole68@example.com,897 Jennifer Mountains,West Lindamouth,Washington,23838,USA,2024-07-15,Inactive,C0823
+M0648,Shannon,Walters,1973-06-13,Female,+1-288-470-9013,russellrachel@example.com,04429 Dodson Burgs Apt. 758,Chambersborough,North Carolina,27080,USA,2021-10-09,Inactive,C0400
+M0649,Melissa,Olsen,1980-01-12,Female,695-790-7238x779,penny44@example.com,987 Howell Inlet Suite 602,Sherrimouth,New Jersey,32938,USA,2022-07-07,Active,C0574
+M0650,Lindsay,Mann,1990-08-23,Female,210.216.0882,jason26@example.net,955 William Court Suite 570,Patelchester,Rhode Island,93702,USA,2022-08-08,Inactive,C0297
