@@ -151,7 +151,7 @@ def process_file(file_name, load_key,cursor, conn):
         print("Columns :", df.columns.tolist())
         print("Shape :", df.shape)
  
-        df["load_key"] = load_key
+        df["load_key"] = load_key 
         df["ingestion_timestamp"] = ingestion_timestamp
         df["is_processed"] = "N"
  
