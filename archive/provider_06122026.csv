@@ -1,0 +1,101 @@
+provider_id,provider_name,Gender,Birth_date,address,city,state,zip_code,country,telephone_number,speciality_id,emergency_services,overall_rating,rating_footnote
+PR0001,Carlos F. Navarro,Male,1963-08-09,894 Oak St,Houston,TX,77001,Harris,+1 (531) 849-1027,"ENDO,ENT",true,4,Limited data
+PR0002,Indiana University Health,NA,null,477 Broadway,Seattle,WA,98101,King,+1 (776) 256-6782,"GEN,OBGYN",true,1,Recent quality improvements
+PR0003,UC San Diego Health,Female,null,539 Broadway,San Francisco,CA,94101,San Francisco,+1 (886) 796-9970,GASTRO,true,3,Recent quality improvements
+PR0004,Houston Methodist,NA,null,817 Main St,New York,NY,10001,New York,+1 (458) 144-5399,CARDIO,false,4,Limited data
+PR0005,Carilion Roanoke Memorial,NA,null,231 Main St,Austin,TX,73301,Travis,+1 (431) 331-5492,"GASTRO,OBGYN",true,4,null
+PR0006,Raymond E. Barbre,NA,1975-02-16,304 Broadway,Seattle,WA,98101,King,+1 (253) 978-8044,ENDO,false,3,null
+PR0007,Baptist Health South Florida,NA,null,722 Oak St,Fort Worth,TX,76101,Tarrant,+1 (580) 109-1218,ONCO,true,4,null
+PR0008,Sanford USD Medical Center,NA,null,638 Main St,San Antonio,TX,78201,Bexar,+1 (941) 440-1350,"NEPH,PSY",true,2,Recent quality improvements
+PR0009,Greenwich Hospital,Female,null,875 Main St,San Jose,CA,95101,Santa Clara,+1 (554) 516-1905,CARDIO,false,4,null
+PR0010,Saint Alphonsus Regional Medical Center,NA,null,390 Main St,Indianapolis,IN,46201,Marion,+1 (872) 830-5133,"RHEUM,ONCO",false,1,Limited data
+PR0011,Vijay Bhagia,Female,1980-04-02,239 Maple Ave,Dallas,TX,75201,Dallas,+1 (377) 841-6426,PED,true,4,High patient satisfaction
+PR0012,Sentara Norfolk General,NA,null,322 Maple Ave,Houston,TX,77001,Harris,+1 (944) 167-3154,GASTRO,true,2,Limited data
+PR0013,Texas Health Presbyterian Hospital,NA,null,215 Oak St,Houston,TX,77001,Harris,+1 (936) 710-8959,ENDO,true,2,Limited data
+PR0014,UnityPoint Health,Female,null,834 Maple Ave,Indianapolis,IN,46201,Marion,+1 (476) 964-9645,"HEM,ENT",false,2,Limited data
+PR0015,Intermountain Medical Center,NA,null,704 Oak St,Denver,CO,80201,Denver,+1 (607) 617-2439,PULM,false,1,Recent quality improvements
+PR0016,ChristianaCare,NA,null,808 Main St,Houston,TX,77001,Harris,+1 (815) 281-7800,GASTRO,false,4,null
+PR0017,Cedars-Sinai Medical Center,Male,null,954 Maple Ave,Los Angeles,CA,90001,Los Angeles,+1 (439) 770-5813,ENDO,true,5,Recent quality improvements
+PR0018,Stony Brook University Hospital,NA,null,690 Broadway,Phoenix,AZ,85001,Maricopa,+1 (707) 902-4241,"SURG,ENT",false,4,Recent quality improvements
+PR0019,Montefiore Medical Center,NA,null,701 Maple Ave,San Antonio,TX,78201,Bexar,+1 (592) 181-1939,GASTRO,true,4,null
+PR0020,Rush University Medical Center,Male,null,295 Broadway,Houston,TX,77001,Harris,+1 (212) 883-2425,URO,true,3,Recent quality improvements
+PR0021,Children's National Hospital,NA,null,592 Oak St,Washington,DC,20001,District of Columbia,+1 (488) 626-6793,DERMA,false,1,Recent quality improvements
+PR0022,UCHealth Poudre Valley,NA,null,319 Broadway,Phoenix,AZ,85001,Maricopa,+1 (421) 767-8922,SURG,true,2,Recent quality improvements
+PR0023,James L. Caskey,NA,1970-01-10,225 Maple Ave,Chicago,IL,60601,Cook,+1 (793) 887-8289,"NEPH,PED",true,3,Limited data
+PR0024,MUSC Health,NA,null,466 Main St,Houston,TX,77001,Harris,+1 (305) 745-5555,"DERMA,ONCO",true,2,Recent quality improvements
+PR0025,UCSF Medical Center,NA,null,314 Main St,Columbus,OH,43085,Franklin,+1 (648) 352-3840,"URO,ALL",false,4,null
+PR0026,Julio De La Fuente,NA,1985-03-15,148 Main St,Washington,DC,20001,District of Columbia,+1 (790) 880-3268,SURG,false,1,Recent quality improvements
+PR0027,Henry Ford Hospital,NA,null,195 Oak St,New York,NY,10001,New York,+1 (475) 210-3733,NEURO,false,2,High patient satisfaction
+PR0028,Beaumont Hospital,NA,null,424 Oak St,Philadelphia,PA,19101,Philadelphia,+1 (540) 586-1006,HEM,true,4,Recent quality improvements
+PR0029,Larry J. Goates,NA,1965-10-07,968 Maple Ave,Indianapolis,IN,46201,Marion,+1 (524) 490-6269,"GASTRO,NEURO",true,2,null
+PR0030,Henry Ford Hospital,Male,null,868 Oak St,Seattle,WA,98101,King,+1 (395) 867-6681,CARDIO,false,1,Limited data
+PR0031,Ochsner Medical Center,NA,null,450 Oak St,San Francisco,CA,94101,San Francisco,+1 (885) 370-2159,"GEN,PULM",false,2,Limited data
+PR0032,Northwestern Memorial Hospital,NA,null,326 Maple Ave,Philadelphia,PA,19101,Philadelphia,+1 (951) 968-9340,URO,false,5,High patient satisfaction
+PR0033,UCHealth Poudre Valley,NA,null,757 Main St,Denver,CO,80201,Denver,+1 (242) 107-7654,"PULM,OBGYN",false,4,High patient satisfaction
+PR0034,Dennis E. Halford,Female,1974-09-11,291 Main St,Seattle,WA,98101,King,+1 (824) 708-3605,DERMA,true,2,null
+PR0035,Ochsner Medical Center,Female,null,175 Oak St,Austin,TX,73301,Travis,+1 (310) 718-1795,"PSY,SURG",false,2,High patient satisfaction
+PR0036,MedStar Georgetown University Hospital,NA,null,972 Main St,Columbus,OH,43085,Franklin,+1 (672) 205-5879,"DERMA,ENT",true,3,Recent quality improvements
+PR0037,Renown Regional Medical Center,NA,null,165 Maple Ave,Houston,TX,77001,Harris,+1 (228) 305-2425,ORTHO,false,5,null
+PR0038,Anurag Patel,NA,1979-11-29,577 Main St,San Antonio,TX,78201,Bexar,+1 (246) 537-6444,"GEN,NEPH",true,5,Limited data
+PR0039,Duke University Hospital,NA,null,434 Oak St,Jacksonville,FL,32099,Duval,+1 (882) 332-3240,"ENT,URO",true,4,null
+PR0040,Intermountain Medical Center,Female,null,325 Broadway,Dallas,TX,75201,Dallas,+1 (879) 912-9272,"PULM,CARDIO",false,2,High patient satisfaction
+PR0041,UNC Medical Center,NA,null,338 Oak St,San Antonio,TX,78201,Bexar,+1 (944) 571-3835,"PSY,ALL",false,4,High patient satisfaction
+PR0042,Giancarlo E. Santos,Female,1973-06-17,359 Maple Ave,San Diego,CA,92101,San Diego,+1 (832) 394-7497,"PSY,ENT",true,4,null
+PR0043,Irish Tongco,NA,1965-12-21,626 Broadway,Denver,CO,80201,Denver,+1 (370) 618-5222,"NEURO,SURG",true,4,Limited data
+PR0044,Children's Hospital Colorado,NA,null,322 Oak St,Los Angeles,CA,90001,Los Angeles,+1 (239) 953-5720,RHEUM,true,4,High patient satisfaction
+PR0045,Mark Z. Vrana,Male,1962-06-19,257 Main St,San Diego,CA,92101,San Diego,+1 (438) 192-4622,"RAD,URO",false,2,Recent quality improvements
+PR0046,Mission Hospital,Female,null,660 Main St,Los Angeles,CA,90001,Los Angeles,+1 (670) 875-9314,"NEURO,HEM",true,4,High patient satisfaction
+PR0047,Joseph Yu,NA,1966-11-16,352 Maple Ave,Seattle,WA,98101,King,+1 (383) 158-8584,PED,false,1,null
+PR0048,UT Southwestern Medical Center,Female,null,690 Broadway,Columbus,OH,43085,Franklin,+1 (208) 734-5990,RAD,true,2,Recent quality improvements
+PR0049,Maimonides Medical Center,NA,null,443 Oak St,Fort Worth,TX,76101,Tarrant,+1 (474) 900-3171,"ENDO,GEN",false,1,High patient satisfaction
+PR0050,Mayo Clinic,NA,null,752 Broadway,Seattle,WA,98101,King,+1 (746) 783-4809,"ONCO,ENDO",true,5,High patient satisfaction
+PR0051,Ochsner Medical Center,NA,null,977 Broadway,San Antonio,TX,78201,Bexar,+1 (218) 586-8786,URO,false,2,Limited data
+PR0052,Allegheny General Hospital,NA,null,185 Maple Ave,San Diego,CA,92101,San Diego,+1 (975) 613-9543,NEPH,false,3,Recent quality improvements
+PR0053,Rush University Medical Center,NA,null,642 Maple Ave,San Jose,CA,95101,Santa Clara,+1 (769) 537-4559,ALL,true,2,High patient satisfaction
+PR0054,UC San Diego Health,NA,null,550 Oak St,Indianapolis,IN,46201,Marion,+1 (462) 425-2138,ENT,true,1,Limited data
+PR0055,Inova Fairfax Hospital,NA,null,673 Maple Ave,Austin,TX,73301,Travis,+1 (966) 201-7492,OBGYN,true,4,Limited data
+PR0056,William Cook,NA,1968-04-17,981 Main St,Houston,TX,77001,Harris,+1 (561) 916-5416,ALL,false,3,null
+PR0057,Farrah Agahi,NA,1966-04-26,620 Main St,Jacksonville,FL,32099,Duval,+1 (372) 558-6235,DERMA,false,5,Recent quality improvements
+PR0058,NYC Health Hospitals,Male,null,904 Broadway,San Antonio,TX,78201,Bexar,+1 (915) 507-1940,PSY,false,1,Limited data
+PR0059,Baptist Health South Florida,Male,null,143 Broadway,New York,NY,10001,New York,+1 (840) 556-9440,"ENT,DERMA",true,5,Recent quality improvements
+PR0060,Froedtert Hospital,NA,null,775 Oak St,Philadelphia,PA,19101,Philadelphia,+1 (583) 787-1015,ENDO,false,4,High patient satisfaction
+PR0061,Saint Alphonsus Regional Medical Center,NA,null,715 Main St,Seattle,WA,98101,King,+1 (545) 604-1246,"URO,GEN",false,3,null
+PR0062,Carilion Roanoke Memorial,NA,null,139 Broadway,Washington,DC,20001,District of Columbia,+1 (892) 884-1796,"ALL,ONCO",false,2,Limited data
+PR0063,Henry Ford Hospital,NA,null,613 Maple Ave,Fort Worth,TX,76101,Tarrant,+1 (572) 800-6825,ORTHO,true,3,null
+PR0064,Emory University Hospital,Male,null,406 Maple Ave,Seattle,WA,98101,King,+1 (471) 418-5345,ORTHO,true,1,null
+PR0065,Sanford USD Medical Center,NA,null,573 Oak St,Denver,CO,80201,Denver,+1 (537) 460-1078,"DERMA,URO",true,3,Limited data
+PR0066,CoxHealth,NA,null,481 Oak St,San Diego,CA,92101,San Diego,+1 (390) 938-7764,"ENDO,ENT",true,5,Recent quality improvements
+PR0067,Raymond E. Barbre,NA,1975-07-28,392 Broadway,Fort Worth,TX,76101,Tarrant,+1 (929) 949-1524,"PSY,CARDIO",true,4,null
+PR0068,Children's Hospital of Philadelphia,Female,null,607 Main St,San Diego,CA,92101,San Diego,+1 (740) 724-7465,"GASTRO,RHEUM",false,3,null
+PR0069,Larry J. Goates,NA,1970-09-16,413 Oak St,Seattle,WA,98101,King,+1 (489) 185-3322,CARDIO,true,4,Recent quality improvements
+PR0070,Children's Hospital of Philadelphia,NA,null,326 Maple Ave,Charlotte,NC,28201,Mecklenburg,+1 (849) 276-7426,ALL,false,1,null
+PR0071,Atrium Health Wake Forest,NA,null,589 Maple Ave,Dallas,TX,75201,Dallas,+1 (504) 933-1875,"HEM,ALL",true,3,Recent quality improvements
+PR0072,NYU Langone Health,NA,null,344 Main St,Austin,TX,73301,Travis,+1 (267) 855-7548,"HEM,ALL",false,2,Limited data
+PR0073,Banner University Medical Center Phoenix,NA,null,700 Broadway,San Diego,CA,92101,San Diego,+1 (266) 824-8960,"RAD,CARDIO",false,2,High patient satisfaction
+PR0074,Cincinnati Children's Hospital,NA,null,487 Main St,Fort Worth,TX,76101,Tarrant,+1 (807) 686-5838,RHEUM,true,2,Recent quality improvements
+PR0075,Christopher D. Stansbury,Male,1980-01-16,756 Broadway,Phoenix,AZ,85001,Maricopa,+1 (581) 123-9651,PED,true,2,null
+PR0076,Altru Health System,NA,null,705 Broadway,Indianapolis,IN,46201,Marion,+1 (205) 960-9340,HEM,false,3,High patient satisfaction
+PR0077,University of Michigan Hospitals,Male,null,822 Broadway,Dallas,TX,75201,Dallas,+1 (385) 351-6992,"PED,DERMA",false,5,Recent quality improvements
+PR0078,Boston Children's Hospital,NA,null,413 Maple Ave,Houston,TX,77001,Harris,+1 (943) 818-9778,URO,false,4,Recent quality improvements
+PR0079,Mark Z. Vrana,Male,1970-06-29,429 Maple Ave,New York,NY,10001,New York,+1 (720) 787-1560,"CARDIO,OBGYN",true,3,null
+PR0080,UCHealth Memorial Hospital,NA,null,172 Oak St,New York,NY,10001,New York,+1 (221) 276-3742,GEN,true,5,High patient satisfaction
+PR0081,Sentara Norfolk General,NA,null,853 Broadway,Jacksonville,FL,32099,Duval,+1 (208) 710-7907,"NEURO,RHEUM",false,2,Recent quality improvements
+PR0082,M Health Fairview,NA,null,837 Maple Ave,Philadelphia,PA,19101,Philadelphia,+1 (816) 401-6458,"PULM,ENDO",false,3,Recent quality improvements
+PR0083,MUSC Health,NA,null,454 Broadway,Washington,DC,20001,District of Columbia,+1 (903) 587-7091,"OBGYN,NEURO",true,5,High patient satisfaction
+PR0084,Brigham and Women's Hospital,NA,null,673 Main St,Charlotte,NC,28201,Mecklenburg,+1 (973) 682-1889,"RHEUM,SURG",true,5,Limited data
+PR0085,Greenwich Hospital,Female,null,125 Oak St,Austin,TX,73301,Travis,+1 (813) 172-1088,"PULM,OBGYN",false,4,null
+PR0086,Swedish Medical Center,Male,null,554 Broadway,Dallas,TX,75201,Dallas,+1 (279) 389-2357,"RHEUM,ALL",true,5,null
+PR0087,Piedmont Atlanta Hospital,NA,null,390 Main St,Los Angeles,CA,90001,Los Angeles,+1 (350) 653-9382,"NEPH,RHEUM",false,1,Limited data
+PR0088,Mercy Hospital St. Louis,NA,null,895 Oak St,Philadelphia,PA,19101,Philadelphia,+1 (390) 356-4521,"NEURO,ALL",false,5,Limited data
+PR0089,UT Southwestern Medical Center,Male,null,712 Main St,Jacksonville,FL,32099,Duval,+1 (596) 321-3898,PED,false,2,Limited data
+PR0090,David B. Greene,NA,1974-07-28,568 Broadway,Phoenix,AZ,85001,Maricopa,+1 (643) 551-2614,RHEUM,false,1,null
+PR0091,Allegheny General Hospital,NA,null,913 Oak St,New York,NY,10001,New York,+1 (691) 258-2000,"ALL,RAD",true,5,High patient satisfaction
+PR0092,William Cook,NA,1963-07-25,222 Broadway,Washington,DC,20001,District of Columbia,+1 (998) 377-2346,"ENT,HEM",false,4,High patient satisfaction
+PR0093,Deji Fashemo,Male,1982-04-05,882 Oak St,Jacksonville,FL,32099,Duval,+1 (721) 537-8805,HEM,true,3,Recent quality improvements
+PR0094,Baystate Medical Center,NA,null,989 Broadway,Houston,TX,77001,Harris,+1 (808) 623-7609,ENDO,false,4,High patient satisfaction
+PR0095,Benjamin J. Martin,NA,1972-10-19,856 Main St,Philadelphia,PA,19101,Philadelphia,+1 (782) 704-2695,"ONCO,ALL",false,5,Limited data
+PR0096,Jay B. Patel,NA,1960-09-04,994 Maple Ave,Charlotte,NC,28201,Mecklenburg,+1 (534) 540-9531,"HEM,RAD",false,1,Limited data
+PR0097,Regional One Health,NA,null,674 Maple Ave,Houston,TX,77001,Harris,+1 (680) 407-9279,ENDO,true,2,High patient satisfaction
+PR0098,Mayo Clinic,Female,null,616 Broadway,Chicago,IL,60601,Cook,+1 (444) 710-7391,"GASTRO,PED",false,3,Recent quality improvements
+PR0099,Ahmed A. Elbira,Male,1962-10-14,598 Oak St,Columbus,OH,43085,Franklin,+1 (625) 339-9627,PULM,false,3,null
+PR0100,Montefiore Medical Center,NA,null,415 Main St,Los Angeles,CA,90001,Los Angeles,+1 (647) 434-2503,"NEPH,ONCO",true,4,Recent quality improvements

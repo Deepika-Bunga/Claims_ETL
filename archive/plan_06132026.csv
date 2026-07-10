@@ -1,0 +1,11 @@
+plan_id,planname,MaxCoverageAmount,InPatientCoverage,OutPatientCoverage,EmergencyServices,PrescriptionDrug,MentalHealthCoverage,VisionCoverage,DentalCoverage
+B0001,Plan A,290620.69,false,true,false,true,false,false,true
+B0002,Plan B,252979.78,true,false,false,false,true,true,true
+B0003,Plan C,480932.95,true,true,true,true,true,true,true
+B0004,Plan D,410540.86,false,false,true,false,true,false,true
+B0005,Plan E,202868.82,false,false,false,false,false,false,true
+B0006,Plan F,251909.85,false,true,true,true,false,false,false
+B0007,Plan G,487824.50,true,false,true,false,false,true,false
+B0008,Plan H,498208.06,true,true,true,false,false,true,false
+B0009,Plan I,382709.28,true,false,true,true,false,false,false
+B0010,Plan J,286615.37,true,false,false,true,false,false,true
